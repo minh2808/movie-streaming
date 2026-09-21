@@ -1,6 +1,6 @@
 import { MovieListResponse, MovieDetailResponse } from '@/types/ophim';
 
-const API_HOST = 'https://ophim1.com';
+const API_HOST = 'https://phimapi.com';
 
 export const OphimService = {
     /**
